@@ -1,0 +1,31 @@
+12-06-2025:
+------------
+
+	Input field: In html when we want to take data from users we are going to use input field which carries 
+			a. type attribute: text
+					email
+					password
+					number
+					radio
+					checkbox
+					file
+					data
+					submit
+					reset
+					button
+
+
+	-> placeholder: which gives dummy data.
+	-> name: which gives unique identity
+	-> required: mandatory
+
+
+
+
+
+
+
+
+
+
+

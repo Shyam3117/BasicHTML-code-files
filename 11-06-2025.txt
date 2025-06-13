@@ -1,0 +1,18 @@
+Linking and Listss
+
+11-06-2025
+--------------------
+
+Linking: to give connection from one page to another page we use anchor tag <a></a> it carries two attributes,
+	1. href : Hyper reference: It defines the address
+	2. target :  Target defines where we need to open the respective window or tab
+
+Lists:
+------
+	we are having three types
+		1. unordered:
+			-> which gives list information in symbols format. It carries type as an attribute with value disc, Square, circle, none.
+		2. Ordered:
+			-> which provides the list information in a sequence of values. It carries type attribute with value 1, a, A, i, I.
+		3. Discriptive list:
+			-> Which have dt(descriptive term), dd(descriptive data)

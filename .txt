@@ -1,0 +1,80 @@
+Front-end
+	html
+	css
+		bootstrap
+		material ui
+		tailwindcss
+		shadcn
+	JavaScript
+		react js
+		angular, angular js
+		vuejs
+	GitHub
+	Deployment
+		AWS		Pay as you use
+		render
+		vercel
+		netlify
+		firebase
+		pythonanywhere
+
+	Input
+		vscode
+	output
+		chrome
+	
+Back-end
+	
+
+
+
+
+
+
+
+Notes:
+--------
+
+-> In html we are going to write everything in a tag format.
+
+	opening element<element>
+	closing element</element>
+
+	self-closing element<element/>
+
+
+->	<html>
+		<head></head>
+		<body></body>
+	</html>
+
+->HTML(Hyper Text Markup Language):- a text information is accessed in a particular structure(MarkUp) in a specific understandable Language to access in other devices(Hyper)
+
+-> Shortcut Shift+1 and enter default code in html
+
+-> Attribute:
+	- It is a Feature which changes an elements basic structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

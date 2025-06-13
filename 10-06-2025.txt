@@ -1,0 +1,9 @@
+10-06-2025
+
+
+->In html we use image tag as "img" which is a self closing tag it carries "src" address of the image path "alt" alternative information width and hight for adjusting the image
+
+
+
+
+-> table tag which carries table row(tr), table data(td), table head(th)
