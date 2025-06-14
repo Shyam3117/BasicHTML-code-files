@@ -1,0 +1,75 @@
+git-13-06-2025
+
+
+
+git hub is a platform which helps us in 
+	1. version controlling
+	2. coordinating with your employees
+	3. you can access your code from anywhere
+	4. For deployment GitHub is going to play crucial role
+
+Git VS GitHub:
+--------------
+		GitHub							Git
+		------							---
+	GitHub is like a cloud 					Git is like a local System software
+	through internet we are going to access			through using is we push the code into git hub
+
+commands:
+--------
+
+git init
+	-> for initializing a githud
+
+git add .
+	-> for adding all the system files into the GitHub
+git commit -m "first commit"
+	-> Which is for providing the version identity
+git branch -M main
+	-> which is for providing the branch through which we are passing
+git remote
+	-> which is for accessing our GitHub code from anywhere
+git push -u origin main
+	-> This command helps to push the code into GitHub
+
+
+14-06-2025
+---------
+
+GitHub code updating
+
+	-> If you want to update a GitHub logic you need to execute three commands
+		1. git add .  (to add all the updated files)
+		2. git commit -m "Link Updated"   
+		3. git push
+
+	-> We have to execute these commands from respective GitHub folder
+
+
+
+register.html
+	name
+	email
+	password
+	conform password
+	gender radio buttons
+	mobile_number
+	education details checkbox
+	city dropdown
+	address textarea
+	picture
+	button register	
+login.html
+	email
+	password
+		forget password
+	login button
+bio.html
+	bio of any person(gallery must be)
+
+	gallery.html
+
+
+
+
+
