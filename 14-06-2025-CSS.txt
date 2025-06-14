@@ -1,0 +1,22 @@
+14-06-2025-CSS
+---------------
+
+CSS (Cascading Style Sheets)
+----------------------------
+	-> Which is for creating a responsive page with better UI(User Interface)
+	-> By using style tag we are going to create the css logic 
+Syntax:
+	selector{
+		property: value;
+		property: value;
+		property: value;
+		.
+		.
+		.	
+		.	
+		.	
+		.
+	}
+
+	-> selector : It means selecting a html element which happens using the ways represented below:
+			
