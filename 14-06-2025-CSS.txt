@@ -19,4 +19,17 @@ Syntax:
 	}
 
 	-> selector : It means selecting a html element which happens using the ways represented below:
-			
+			1.simple selector:
+				element(img, h1, p, pre,....), id(#), class(.)
+			2. combinator selector:
+				descandant( ), child(>), adjascant sibiling(+), general sibiling(~)
+			3. pseudo class:
+				:link, :visited, :hover, :active
+			4. pseudo element:
+				::first-line, ::last-line, ::first-letter, ::last-letter, ::before, ::after
+			5. attridute:
+				based on element attribute the styling will be applied
+
+
+
+
